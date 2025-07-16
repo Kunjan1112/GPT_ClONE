@@ -57,11 +57,11 @@ Create a .env file or use environment variables:
 ```Access the app at: http://127.0.0.1:5000```
 
 🔐 Authentication
-Register with your email and password
+```Register with your email and password```
 
-Login to start chatting
+```Login to start chatting```
 
-Chats are saved per user session
+```Chats are saved per user session```
 
 📸 Screenshots
 You can add screenshots of:
@@ -93,7 +93,7 @@ MIT License. Feel free to use and modify!
 
 ✨ Author
 Developed by [Kunjan Patel]
-[[Your Email or GitHub Profile Link](https://github.com/Kunjan1112)]
+```[[Your Email or GitHub Profile Link](https://github.com/Kunjan1112)]```
 
 ---
 
