@@ -39,8 +39,8 @@ Edit
 ### 1. Clone the repository
 
 
-git clone https://github.com/your-username/flask-chatgpt-ui.git
-cd flask-chatgpt-ui
+```git clone https://github.com/your-username/flask-chatgpt-ui.git```
+```cd flask-chatgpt-ui```
 
 ### 2. Install dependencies
 
