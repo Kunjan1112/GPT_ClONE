@@ -42,16 +42,16 @@ Edit
 git clone https://github.com/your-username/flask-chatgpt-ui.git
 cd flask-chatgpt-ui
 
-2. Install dependencies
+### 2. Install dependencies
 
 pip install -r requirements.txt
 
-3. Set your OpenAI API Key
+### 3. Set your OpenAI API Key
 Create a .env file or use environment variables:
 
 OPENAI_API_KEY=your_openai_api_key_here
 
-4. Run the Flask app
+### 4. Run the Flask app
 
 python app.py
 Access the app at: http://127.0.0.1:5000
