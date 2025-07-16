@@ -44,17 +44,17 @@ cd flask-chatgpt-ui
 
 ### 2. Install dependencies
 
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
 ### 3. Set your OpenAI API Key
 Create a .env file or use environment variables:
 
-OPENAI_API_KEY=your_openai_api_key_here
+```OPENAI_API_KEY=your_openai_api_key_here```
 
 ### 4. Run the Flask app
 
-python app.py
-Access the app at: http://127.0.0.1:5000
+```python app.py```
+```Access the app at: http://127.0.0.1:5000```
 
 🔐 Authentication
 Register with your email and password
