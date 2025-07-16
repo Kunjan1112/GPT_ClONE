@@ -93,7 +93,7 @@ MIT License. Feel free to use and modify!
 
 ✨ Author
 Developed by [Kunjan Patel]
-```[[Your Email or GitHub Profile Link](https://github.com/Kunjan1112)]```
+```[[GitHub Profile Link](https://github.com/Kunjan1112)]```
 
 ---
 
